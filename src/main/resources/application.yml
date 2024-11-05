@@ -1,1 +1,3 @@
-spring.application.name=eb_proj
+spring:
+  profiles:
+    active: test
